@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 /**
  * Class FontAwesomeAsset
- * @package bigpaulie\social\share
+ * @package andre1ka\social\share
  */
 class FontAwesomeAsset extends AssetBundle {
     
