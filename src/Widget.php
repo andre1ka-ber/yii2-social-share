@@ -1,10 +1,10 @@
 <?php
 
-namespace bigpaulie\social\share;
+namespace andre1ka\social\share;
 
 use yii\helpers\Url;
 use \yii\web\View;
-use bigpaulie\social\share\ShareAsset;
+use andre1ka\social\share\ShareAsset;
 
 /**
  * Class Widget
