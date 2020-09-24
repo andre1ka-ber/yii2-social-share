@@ -8,7 +8,7 @@ use andre1ka\social\share\ShareAsset;
 
 /**
  * Class Widget
- * @package bigpaulie\social\share
+ * @package andre1ka\social\share
  */
 class Widget extends \yii\base\Widget {
     /**
