@@ -1,6 +1,6 @@
 <?php
 
-namespace bigpaulie\social\share;
+namespace andre1ka\social\share;
 
 use yii\web\AssetBundle;
 
@@ -10,15 +10,15 @@ use yii\web\AssetBundle;
  */
 class ShareAsset extends AssetBundle {
     
-    public $sourcePath = '@vendor/bigpaulie/yii2-social-share/src';
+    public $sourcePath = '@vendor/andre1ka/yii2-social-share/src';
     
     public $js = [
         'assets/js/social-share.js',
     ];
     
     public $depends = [
-        'bigpaulie\social\share\BootstrapSocialAsset',
-        'bigpaulie\social\share\FontAwesomeAsset'
+        'andre1ka\social\share\BootstrapSocialAsset',
+        'andre1ka\social\share\FontAwesomeAsset'
     ];
     
 }
