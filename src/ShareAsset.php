@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 /**
  * Class ShareAsset
- * @package bigpaulie\social\share
+ * @package andre1ka\social\share
  */
 class ShareAsset extends AssetBundle {
     
