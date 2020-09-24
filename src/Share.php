@@ -7,7 +7,7 @@ use yii\helpers\Html;
 
 /**
  * Class Share
- * @package bigpaulie\social\share
+ * @package andre1ka\social\share
  */
 class Share extends Widget {
 
