@@ -9,17 +9,17 @@ Please keep in mind that this is a work in progress.
 ## Install
 The preferred way of installing is through composer
 ```
-    composer require --prefer-dist bigpaulie/yii2-social-share "dev-master"
+    composer require --prefer-dist andre1ka/yii2-social-share "dev-master"
 ```
 
 OR add to composer.json
 ```
-    "bigpaulie/yii2-social-share": "dev-master"
+    "andre1ka/yii2-social-share": "dev-master"
 ```
 
 ## Example usage :
 ```php 
-    use bigpaulie\social\share\Share;
+    use andre1ka\social\share\Share;
 ```
 By default you can run the widget with no configuration parameters
 
