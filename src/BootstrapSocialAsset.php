@@ -6,7 +6,7 @@ use yii\web\AssetBundle;
 
 /**
  * Class BootstrapSocialAsset
- * @package bigpaulie\social\share
+ * @package andre1ka\social\share
  */
 class BootstrapSocialAsset extends AssetBundle{
     
