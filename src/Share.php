@@ -1,8 +1,8 @@
 <?php
 
-namespace bigpaulie\social\share;
+namespace andre1ka\social\share;
 
-use bigpaulie\social\share\Widget;
+use andre1ka\social\share\Widget;
 use yii\helpers\Html;
 
 /**
