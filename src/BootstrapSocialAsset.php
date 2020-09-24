@@ -1,6 +1,6 @@
 <?php
 
-namespace bigpaulie\social\share;
+namespace andre1ka\social\share;
 
 use yii\web\AssetBundle;
 
